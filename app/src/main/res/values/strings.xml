@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">DSRPT</string>
     <string name="map_key">AIzaSyCrBlUO-WlYABspvJqz23dnGUjESYVMWsE</string>
+
+    <string name="web_header">Assassin\'s Creed Valhalla fez um hype em coisas nórdicas/vikings</string>
+    <string name="web_button_info">Caso tenha interesse no jogo, apenas clique neste botão</string>
+    <string name="web_button_text">Dar uma olhada no jogo</string>
+
+    <string name="map_header">Se você foi afetado pelo hype e gosta de viajar, temos um amontoado de lugares nórdicos para viajar, explorar e admirar as vistas</string>
+    <string name="map_button_info">Em cada lugar há um pin, que demonstra o nome do local caso clique nele</string>
+    <string name="map_button_text">Dar uma olhada nos lugares</string>
 </resources>
